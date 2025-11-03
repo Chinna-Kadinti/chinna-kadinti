@@ -1,70 +1,84 @@
-# Getting Started with Create React App
+# 👋 Hi, I'm Chinna Kadinti
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+🚀 **Full-Stack MERN Developer | Frontend Specialist | ReactJS | Next.js | Node.js**
 
-## Available Scripts
+I’m a passionate Full-Stack Developer with **3.3+ years of experience** building high-performance, scalable, and user-friendly web applications. I specialize in **React, Node.js, MongoDB, and Express**, and have hands-on expertise with **Redux, Tailwind CSS, and RESTful APIs**.  
+Currently working at **Wipro Limited**, where I contribute to developing modern banking interfaces and optimizing application performance.
 
-In the project directory, you can run:
+---
 
-### `yarn start`
+## 🧠 About Me
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- 🔭 I’m currently working as a **Full-Stack Developer** at **Wipro Limited**
+- 🌱 I’m learning **Next.js, TypeScript, and Cloud Deployment (AWS)**
+- 👯 I’m looking to collaborate on **frontend-heavy or MERN stack projects**
+- 💬 Ask me about **React, Redux, Node.js, JavaScript, Tailwind CSS, and performance optimization**
+- 🎯 Goal: Crack a **Frontend Developer** role at a top **product-based company**
+- ⚡ Fun fact: I love turning complex problems into clean, reusable code.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `yarn test`
+## 🛠️ Tech Stack
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 💻 Frontend
+React.js • Next.js • HTML5 • CSS3 • JavaScript (ES6+) • TypeScript • Tailwind CSS • Responsive Web Design
 
-### `yarn build`
+### ⚙️ Backend
+Node.js • Express.js • RESTful APIs • GraphQL • WebSocket
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 🗄️ Database
+MongoDB • MySQL • Mongoose • Database Schema Design
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### 🧩 State Management
+Redux • RTK Query • Context API
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### ☁️ DevOps & Tools
+AWS Cloud • Git/GitHub • CI/CD Pipelines • VS Code • Postman
 
-### `yarn eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 💼 Professional Experience
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### **Wipro Limited** — _Full-Stack Developer_  
+📍 Bangalore, India | 🗓️ May 2022 – Present
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- Architected a **high-performance banking application** with reusable component libraries.  
+- Built and optimized **RESTful APIs and WebSocket updates**, improving update speed by **40%**.  
+- Reduced application load time by **25%** via React optimization and caching strategies.  
+- Collaborated with cross-functional teams, boosting customer satisfaction by **20%**.  
+- Resolved critical production issues, cutting error rates by **30%**.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
+## 🚀 Featured Projects
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### 📚 [Bookstore App (MERN Stack)](https://github.com/Chinna-Kadinti)
+- Full-stack bookstore with **React, Node.js, Express, MongoDB**, and **Tailwind CSS**
+- Implemented **JWT authentication** and **Redux + RTK Query** for state management
+- Optimized API response times by **20%** using caching and pagination
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### 🎬 [YouTube & Netflix Clones](https://github.com/Chinna-Kadinti)
+- Built responsive media streaming clones with **React.js**, **Redux**, and **Firebase**
+- Integrated **TMDB API** for live content and enhanced UI/UX for 100% device compatibility
+- Improved page performance by **20%** through optimized rendering and lazy loading
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 🏆 Achievements
 
-### Analyzing the Bundle Size
+- 🥇 **Bright Beginner Award (Wipro)** – Recognized for excellence in Full-Stack Development  
+- ☁️ **AWS Certified Cloud Practitioner** – Skilled in AWS architecture, security, and cost management  
+- 🧾 **Certified in ReactJS, NodeJS, and JavaScript**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+---
 
-### Making a Progressive Web App
+## 📫 Connect with Me
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+- 📧 **Email:** [chinna.kadinti1@gmail.com](mailto:chinna.kadinti1@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/kadinti](https://www.linkedin.com/in/kadinti/)
+- 🌐 **Portfolio:** [chinnakadinti1.netlify.app](https://chinnakadinti1.netlify.app/)
+- 💻 **GitHub:** [github.com/Chinna-Kadinti](https://github.com/Chinna-Kadinti)
 
-### Advanced Configuration
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+⭐️ _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
