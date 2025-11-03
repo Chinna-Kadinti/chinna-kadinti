@@ -2,7 +2,7 @@
 
 🚀 **Full-Stack MERN Developer | Frontend Specialist | ReactJS | Next.js | Node.js**
 
-I’m a passionate Full-Stack Developer with **3.3+ years of experience** building high-performance, scalable, and user-friendly web applications. I specialize in **React, Node.js, MongoDB, and Express**, and have hands-on expertise with **Redux, Tailwind CSS, and RESTful APIs**.  
+I’m a passionate Full-Stack Developer with **4+ years of experience** building high-performance, scalable, and user-friendly web applications. I specialize in **React, Node.js, MongoDB, and Express**, and have hands-on expertise with **Redux, Tailwind CSS, and RESTful APIs**.  
 Currently working at **Wipro Limited**, where I contribute to developing modern banking interfaces and optimizing application performance.
 
 ---
